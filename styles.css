@@ -10,8 +10,16 @@ h2{
 	font-size: 45px;
 
 }
+h3{
+	font-size: 50px;
+}
 
-
+.column{
+	width: 33%;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid black;
+}
 .Main{
 	background: url(images/CB7.jpg);
 	width: auto;
