@@ -1,20 +1,40 @@
 
+ul{
+	float: right;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+ul li{
+	display: inline-block;
+	text-decoration: none;
+	border: 1px solid black;
+}
+
+
 h1{
 	text-align: center;
 	font-size: 50px;
+	padding-left: 5em;
+	border: 1px solid black;
 
 }
 
 h2{
 	text-align: center;
 	font-size: 45px;
+	padding-left: 3em;
+	border: 1px solid black;
 
 }
 
 
 .Main{
-	background: url(images/CB7.jpg);
+	background: url("images/CB7.jpg");
+	text-align: center;
 	width: auto;
 	height: 500px;
+	position: relative;
+	border: 1px solid black;
 
 }
