@@ -32,11 +32,14 @@ h3{
 }
 
 .column{
-	width: 33%;
+	width: 32.95%;
 	display: inline-block;
 	vertical-align: top;
 	border: 1px solid black;
+	text-align: center;
 }
+
+
 .Main{
 	background: url("images/CB7.jpg");
 	text-align: center;
