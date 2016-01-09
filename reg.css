@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(105,105,105);
+}
+
+
+ul{
+	float: right;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+ul li{
+	display: inline-block;
+	text-decoration: none;
+	border: 1px solid black;
+}
+
+.form-group{
+	margin:50px;
+	border: 2px solid black;
+}
