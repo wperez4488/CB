@@ -34,15 +34,15 @@ ul li{
 h1{
 	text-align: center;
 	font-size: 50px;
-	padding-left: 5em;
 	border: 1px solid black;
+	color: Blue;
 }
 
 h2{
 	text-align: center;
 	font-size: 45px;
-	padding-left: 3em;
 	border: 1px solid black;
+	color:black;
 }
 
 h3{
@@ -55,6 +55,10 @@ h3{
 	vertical-align: top;
 	border: 1px solid black;
 	text-align: center;
+}
+
+.left.column{
+	margin-bottom: 20px;
 }
 
 .open h2{
