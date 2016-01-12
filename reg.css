@@ -11,10 +11,6 @@ ul li{
 	border: 1px solid black;
 }
 
-.title{
-	background: blue;
-
-}
 
 h1{
 	text-align: center;
@@ -24,10 +20,11 @@ h1{
 
 .subform{
 	margin:30px;
-	background: white;
+	background: gray;
 	color:white;
 	width:40%;
 	border-radius: 20px;
+	float: left;
 }
 
 .form{
