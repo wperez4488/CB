@@ -1,4 +1,9 @@
 
+nav{
+	margin-top: 2em;
+}
+
+
 ul{
 	float: right;
 	display: inline-block;
@@ -15,6 +20,13 @@ ul li{
 h1{
 	text-align: center;
 	border: 1px solid black;
+}
+
+
+
+h2{
+	font-size: 30px;
+	font-style: bold;
 }
 
 
@@ -35,5 +47,11 @@ h1{
 	background: white;
 	font-size: 20px;
 	color:black;
+	border-radius: 20%;
+	border: 2px solid black;
+}
 
+.sum-img img{
+	border:2px solid black;
+	margin-right: 5px;
 }
